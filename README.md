@@ -1,4 +1,5 @@
 Secure-BMS
+
 Secure-BMS is an ESP32-based battery monitoring prototype with temperature sensing, encrypted MQTT telemetry, a FastAPI backend, PostgreSQL storage, anomaly-processing scripts, and a Streamlit dashboard.
 Prerequisites
 - Windows, Python, and a project virtual environment
