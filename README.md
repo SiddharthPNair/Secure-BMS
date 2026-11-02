@@ -109,6 +109,3 @@ python -m pip install "psycopg[binary]"
 Network note:
 
 Only configure Windows Firewall rules when remote devices on the local subnet need to reach the broker. For local-only testing, keep the broker bound to localhost where possible. Do not expose MQTT credentials or the broker to untrusted networks.
-
-Security
-Credentials and an encryption-key-like value were included in the setup notes used to prepare this README. They have intentionally not been copied here. Rotate any exposed MQTT password or encryption key, then store replacements in local environment variables or an untracked configuration file. Never commit real secrets to the repository.
