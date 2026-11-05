@@ -7,7 +7,10 @@ Prerequisites
 - Mosquitto MQTT broker
 - PostgreSQL
 - Required Python packages installed in .venv
-  
+
+Video Link: 
+[https://drive.google.com/file/d/1Tg4uqhk3C-asupjAIOBNCw3vkDE3FpwZ/view?usp=sharing](https://drive.google.com/file/d/1Tg4uqhk3C-asupjAIOBNCw3vkDE3FpwZ/view?usp=sharing)
+
 Run the project
 
 Open separate Command Prompt windows as needed.
